@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Application Resource Strings -->
+    <string name="app_name">SocialPlannerApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_trigger_event">TriggerEvent</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sub">SubActivity</string>
+    <string name="title_activity_planner_list_view">PlannerListView</string>
+    <string name="title_activity_show_eventsof_day">ShowEventsofDay</string>
+    <string name="title_activity_edit_dialog">EditDialog</string>
+
+    <!-- Create Event strings 	File: activity_sub.xml -->
+    <string name="create_events">Create Event :</string>
+    <string name="title">Title :</string>
+    <string name="date">Date :</string>
+    <string name="time">Time :</string>
+    <string name="venue">Venue :</string>
+    <string name="location">Location :</string>
+    <string name="note">Note :</string>
+    <string name="attendees">Attendees :</string>
+    <string name="id">Id :</string>
+    <string name="button_ok">Create</string>
+    <string name= "edit_event">Edit Event :</string>
+
+    <!-- File :activity_show_eventsof_day.xml -->
+    <string name="show_title">Events for the day : -</string>
+
+    <!-- File :activity_main.xml -->
+    <string name="add_events"> + </string>
+    <string name="del_events"> - </string>
+    <string name="show_all_events">Show All Events</string>
+    <string name="current_month">July 2014</string>
+    <!-- We would want to have forward and backward implmentaton >> << -->
+
+
+    <!-- File :custom_view.xml -->
+    <string name="edit">Edit</string>
+    <string name="delete ">Delete</string>
+    <string name="title_activity_spinner_edit_view">Spinner_edit_view</string>
+
+   <!--File :activity_spinner_edit_view.xml  -->	
+   <string name="save">Save</string> 	
+    	
+   
+   
+   
+    	
+</resources>
+
+
+
